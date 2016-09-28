@@ -1,0 +1,27 @@
+{
+  "name": "laravel-elixir-replace2",
+  "version": "1.0.0",
+  "description": "A gulp-replace wrapper for Laravel Elixir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElfSundae/laravel-elixir-replace.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "replace"
+  ],
+  "author": "Elf Sundae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElfSundae/laravel-elixir-replace/issues"
+  },
+  "homepage": "https://github.com/ElfSundae/laravel-elixir-replace#readme",
+  "devDependencies": {
+    "gulp-replace": "^0.5.4"
+  }
+}
