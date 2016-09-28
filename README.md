@@ -1,6 +1,6 @@
 # laravel-elixir-replace2
 
-A [gulp-replace][] wrapper for [Laravel Elixir][elixir] 6 or higher, it supports batch string/regexp replacements.
+A [gulp-replace][] wrapper for [Laravel Elixir][elixir] 6 or higher.
 
 ## Installation
 
