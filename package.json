@@ -21,7 +21,7 @@
     "url": "https://github.com/ElfSundae/laravel-elixir-replace/issues"
   },
   "homepage": "https://github.com/ElfSundae/laravel-elixir-replace#readme",
-  "devDependencies": {
+  "dependencies": {
     "gulp-replace": "^0.5.4"
   }
 }
