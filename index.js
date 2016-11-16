@@ -16,6 +16,5 @@ Elixir.extend('replace', function(src, search, replacement, output, options) {
         .pipe(replace(search, replacement, options || Elixir.config.replace))
         .pipe($.if(!paths.output.isDir, $.rename(paths.output.name)))
         .pipe(this.saveAs(gulp));
-    }, paths)
-    .watch(paths.src.path).ignore(paths.output.path);
+    }, paths);
 });
