@@ -45,5 +45,5 @@ The above example will replace all `'../images/'` in file `node_modules/foo/bar.
   }
   ```
 
-[elixir]: http://laraveldoc.com/docs/elixir
+[elixir]: https://laravel.com/docs/5.3/elixir
 [gulp-replace]: https://www.npmjs.com/package/gulp-replace
